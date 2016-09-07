@@ -42,7 +42,7 @@ import android.view.MenuItem;
 import android.view.WindowManager;
 
 public class MainActivity extends Activity implements CvCameraViewListener2 {
-
+// sửa file này xem sao
 	private static final String TAG = "Optical::Activity";
 	private static final Scalar FACE_RECT_COLOR = new Scalar(0, 255, 0, 255);
 	public static final int JAVA_DETECTOR = 0;
